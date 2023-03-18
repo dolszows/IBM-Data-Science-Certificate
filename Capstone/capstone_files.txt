@@ -1,0 +1,1 @@
+This folder contains all of the required codes for the IBM Data Science Certificate Capstone project
